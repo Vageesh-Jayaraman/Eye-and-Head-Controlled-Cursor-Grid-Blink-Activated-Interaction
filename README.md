@@ -15,17 +15,26 @@ To run this project, you need to install the following dependencies:
 
 > [!TIP]
 > You can clone the repository and install the requirements using the following commands: <br /> <br />
-> `git clone https://github.com/Vageesh-Jayaraman/Eye-and-Head-Controlled-Cursor-Grid-Blink-Activated-Interaction.git`<br /> <br />
-> `cd Eye-and-Head-Controlled-Cursor-Grid-Blink-Activated-Interaction`<br /><br />
-> `pip install -r requirements.txt`<br />
+```
+git clone https://github.com/Vageesh-Jayaraman/Eye-and-Head-Controlled-Cursor-Grid-Blink-Activated-Interaction.git
+```
+
+ ```
+ cd Eye-and-Head-Controlled-Cursor-Grid-Blink-Activated-Interaction 
+ ```
+
+```
+pip install -r requirements.txt 
+```
 
 
 
 
 ## MediaPipe Face Mesh Points
-
-![mediapipe_face_landmark_fullsize](https://github.com/Vageesh-Jayaraman/Eye-and-Head-Controlled-Cursor-Grid-Blink-Activated-Interaction/assets/143870355/c6f03d09-253e-4b1c-8a25-8127251c538a)
-The project utilizes the following face mesh points:
+<p align="center">
+<img src="https://github.com/Vageesh-Jayaraman/Eye-and-Head-Controlled-Cursor-Grid-Blink-Activated-Interaction/assets/143870355/c6f03d09-253e-4b1c-8a25-8127251c538a" alt="drawing" width="600"/>
+</p>
+The project utilizes the following face mesh points:<br><br>
 
 - Left Eye: [362, 382, 381, 380, 374, 373, 390, 249, 263, 466, 388, 387, 386, 385, 384, 398]
 - Right Eye: [33, 7, 163, 144, 145, 153, 154, 155, 133, 173, 157, 158, 159, 160, 161, 246]
