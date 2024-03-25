@@ -38,7 +38,9 @@ The project utilizes the following face mesh points:
 
 ## Working Video
 
-![Working Video](working_video_placeholder.png)
+
+https://github.com/Vageesh-Jayaraman/Eye-and-Head-Controlled-Cursor-Grid-Blink-Activated-Interaction/assets/143870355/5e56343f-60a5-40d6-9ed8-9071c22ca910
+
 
 ## Usage
 
@@ -46,4 +48,9 @@ This project can be used for various applications, such as sending secret signal
 
 ## Improvements to be Made
 
-One potential improvement is to incorporate gaze estimation for calibration, enhancing the accuracy of cursor control based on eye movements.
+Two potential improvements are:
+
+1. Incorporate gaze estimation for calibration to enhance the accuracy of cursor control based on eye movements. By integrating gaze estimation techniques, the system can better understand the user's intended point of focus, resulting in more precise cursor movements and interactions.
+
+2. Enhance performance for users wearing spectacles. Currently, the project may not perform optimally for individuals wearing glasses, and further adjustments may be needed to improve accuracy and responsiveness in such scenarios.
+
